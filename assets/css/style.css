@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Capriola&family=Fascinate&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Capriola', sans-serif;
+}
+
+header, footer {
+    min-height: 10vw;
+    background-color: #2ec4b6;
+    text-align: center;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+h1, small {
+    padding: 3vw 0;
+    font-family: 'Fascinate', cursive;
+    margin: 0;
+}
+
+#submit a {
+    text-decoration: none;
+    color: white;
+}
+
+#slogan {
+    background-color: #CBF3F0;
+}
+
+#nomClient, #nomProduit, #prixProduit, #nomCommande {
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+h3 {
+    text-align: center;
+}
+
+#slogan h2 {
+    font-family: 'Fascinate', cursive;
+    text-transform: lowercase;
+    padding: 1vw;
+    text-align: center;
+    margin: 0;
+}
+
+#width {
+    width: auto;
+}
+
+span:after {
+    width: 5vw;
+    height: 5vw;
+    display: inline-block;
+    position: fixed;
+    background-color: #ffbf69;
+    bottom: 5vw;
+    right: 5vw;
+    border-radius: 50%;
+    font-size: 3vw;
+    text-align: center;
+    line-height: 5vw;
+}
+
+select {
+    margin: 15px auto;
+    padding: 15px;
+    background-color: white;
+}
+
+#delete {
+    background-color: red !important;
+}
+
+h2 {
+    margin: 30px;
+    text-align: center;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 60%;
+    padding: 30px;
+    margin: 15px auto;
+}
+
+#section {
+    flex-basis: 40%;
+    padding: 2vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#house {
+    width: 3%;
+    position: fixed;
+    float: left;
+    left: 0;
+    margin: 50px 15px;
+}
+#login {
+    width: 3%;
+    float: right;
+    left: 0;
+    margin: 50px 15px;
+}
+
+.article {
+    border: 1px solid #FFBF69;
+    padding: 25px;
+    margin: 30px auto;
+    display: flex;
+    width: 44%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    width: 20vw;
+    overflow: hidden;
+}
+
+.login {
+    color: blue;
+    align: right;
+}
+
+input:not(input[type="file"], #submit, #delete) {
+    width: 322px;
+    padding: 10px;
+}
+
+form:not(#formCreate, #formDelete) {
+    width: 40%;
+    margin: 20px auto;
+    font-size: 20px !important;
+    display: flex;
+}
+
+#formCreate, #formDelete {
+    width: 40%;
+}
+
+input, button {
+    font-size: 17px;
+}
+
+form div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+#submit, #delete {
+    padding: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin: 15px 0 auto;
+    width: 100%;
+    cursor: pointer;
+}
+
+img {
+    object-fit: cover;
+    width: 100%;
+}
+
+small {
+    padding-top: 7vw;
+    display: block;
+    font-size: 1.6vw;
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66d077f3-3f20-4059-9b38-62540d5bec66" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="2Fcn0XD9ahEMxklvG7TDvc6rUNQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/EvaalObjetMvc1",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CoursMVC1\views" />
+      <recent name="C:\xampp\htdocs\boutique\assets" />
+      <recent name="C:\xampp\htdocs\boutique\dao" />
+      <recent name="C:\xampp\htdocs\boutique\views" />
+      <recent name="C:\xampp\htdocs\boutique" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CoursMVC1\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FonctionsUtiles.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/utilitaires/FonctionsUtiles.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.FonctionsUtiles.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d077f3-3f20-4059-9b38-62540d5bec66" name="Changes" comment="" />
+      <created>1664800016679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664800016679</updated>
+      <workItem from="1664800017877" duration="9538000" />
+      <workItem from="1664866084612" duration="13466000" />
+      <workItem from="1664960945463" duration="3493000" />
+      <workItem from="1664967761503" duration="11203000" />
+      <workItem from="1664983433979" duration="132000" />
+      <workItem from="1665041076668" duration="4544000" />
+      <workItem from="1665050013173" duration="583000" />
+      <workItem from="1665058038712" duration="32002000" />
+      <workItem from="1665386107179" duration="980000" />
+      <workItem from="1665387556961" duration="5000" />
+      <workItem from="1665389935174" duration="848000" />
+      <workItem from="1665391703016" duration="4728000" />
+      <workItem from="1665404897169" duration="1328000" />
+      <workItem from="1665414942766" duration="78000" />
+      <workItem from="1665417185333" duration="1204000" />
+      <workItem from="1665471023147" duration="8264000" />
+      <workItem from="1665490898764" duration="10368000" />
+      <workItem from="1665559418655" duration="1700000" />
+      <workItem from="1665562291929" duration="1773000" />
+      <workItem from="1665564259061" duration="7000" />
+      <workItem from="1665564303757" duration="9552000" />
+      <workItem from="1665577875881" duration="6060000" />
+      <workItem from="1665631857900" duration="5678000" />
+      <workItem from="1665643013104" duration="858000" />
+      <workItem from="1665643880252" duration="9734000" />
+      <workItem from="1665654846457" duration="8998000" />
+      <workItem from="1665670092803" duration="4068000" />
+      <workItem from="1665736592947" duration="4081000" />
+      <workItem from="1665746234592" duration="4000" />
+      <workItem from="1665916984405" duration="94000" />
+      <workItem from="1665932908896" duration="15676000" />
+      <workItem from="1665950563887" duration="1944000" />
+      <workItem from="1665995510258" duration="7126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
