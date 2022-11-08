@@ -1,4 +1,3 @@
-<? //php session_start();?>
 <!doctype html>
 <html lang="fr">
 <head>
@@ -15,7 +14,7 @@
 <body>
 <header>
     <a href="index.php"><img src="assets/img/house-solid.svg" alt="house" id="house"></a>
-    <a href="views/LoginClient.php"><img src="/assets/img/LoginIcon.webp" alt="IconPlayer" id="login"></a>
+    <a href="views/Login.php"><img src="/assets/img/LoginIcon.webp" alt="IconPlayer" id="login"></a>
 
     <h1>BoutiqueBasique en MVC1 !</h1>
     <nav>
