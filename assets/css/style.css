@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Capriola', sans-serif;
+    font-family: 'cursive', sans-serif;
 }
 
 header, footer {
@@ -24,7 +24,7 @@ header, footer {
 
 h1, small {
     padding: 3vw 0;
-    font-family: 'Fascinate', cursive;
+    font-family: 'cursive', cursive;
     margin: 0;
 }
 
@@ -78,7 +78,7 @@ select {
     background-color: white;
 }
 
-#delete {
+#delete:not(.panierSupp) {
     background-color: red !important;
 }
 
@@ -147,7 +147,7 @@ input:not(input[type="file"], #submit, #delete,#btn) {
     padding: 10px;
 }
 
-form:not(#formCreate, #formDelete,#form) {
+form:not(#formCreate, #formDelete,#form,#formLogin) {
     width: 40%;
     margin: 20px auto;
     font-size: 20px !important;
@@ -156,6 +156,10 @@ form:not(#formCreate, #formDelete,#form) {
 
 #formCreate, #formDelete {
     width: 40%;
+}
+#formLogin{
+    margin: 20px auto;
+    font-size: 20px;
 }
 
 input, button {
